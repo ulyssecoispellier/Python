@@ -35,13 +35,13 @@ while not askWhichGameStarted:
         def fireWork():
             print("\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n")
             print("   •")
-            time.sleep(0.5)
+            time.sleep(0.25)
             print("\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n")
             print("  \\|/\n  — —\n  /|\\")
-            time.sleep(0.5)
+            time.sleep(0.25)
             print("\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n")
             print(" \\ | /\n\n —   —\n\n / | \\")
-            time.sleep(0.5)
+            time.sleep(0.25)
             print("\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n")
 
 
